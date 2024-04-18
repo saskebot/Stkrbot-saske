@@ -22,7 +22,7 @@ global.prems = ['972568486065'];
 
 global.packname = 'A.S.G';
 global.author = 'حقوق مملكة';
-global.wm = 'saske';
+global.wm = 'bobiza';
 global.titulowm = 'saske';
 global.titulowm2 = saske
 global.igfg = 'saske';
